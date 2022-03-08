@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box{
+  height: 100vh;
+}
+
+#superga{
+  background-color: red;
+}
+
+#tommy{
+  background-color: green;
+}
+
+#converse{
+  background-color: yellow;
+}
